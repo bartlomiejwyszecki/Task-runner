@@ -14,4 +14,4 @@ Simple react application, where user can add, remove tasks, and give them a prio
 ``` npm install ```
 And then
 ``` npm start ```
-4. Your project will be running on localhost:4200
+4. Your project will be running on localhost:3000
